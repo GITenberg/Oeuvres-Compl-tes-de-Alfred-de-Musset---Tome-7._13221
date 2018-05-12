@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13221#Oeuvres-Compl-tes-de-Alfred-de-Musset---Tome-7.
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2004-08-19'
 gutenberg_type: Text
